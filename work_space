@@ -1,0 +1,127 @@
+<NotepadPlus>
+    <Project name="Tugas Akhir Brow">
+        <Folder name=".metadata">
+            <Folder name=".mylyn">
+                <Folder name="contexts" />
+                <File name=".metadata\.mylyn\repositories.xml.zip" />
+            </Folder>
+            <Folder name=".plugins">
+                <Folder name="org.eclipse.core.resources">
+                    <Folder name=".history" />
+                    <Folder name=".root">
+                        <Folder name=".indexes">
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" />
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" />
+                            <File name=".metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" />
+                        </Folder>
+                        <File name=".metadata\.plugins\org.eclipse.core.resources\.root\1.tree" />
+                    </Folder>
+                    <Folder name=".safetable">
+                        <File name=".metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" />
+                    </Folder>
+                </Folder>
+                <Folder name="org.eclipse.core.runtime">
+                    <Folder name=".settings">
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.dltk.core.index.sql.h2.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.dltk.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.context.core.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.monitor.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.mylyn.tasks.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.php.server.core.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.php.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.cvs.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.workbench.prefs" />
+                        <File name=".metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.jsdt.ui.prefs" />
+                    </Folder>
+                </Folder>
+                <Folder name="org.eclipse.debug.core" />
+                <Folder name="org.eclipse.dltk.core">
+                    <File name=".metadata\.plugins\org.eclipse.dltk.core\Containers.dat" />
+                </Folder>
+                <Folder name="org.eclipse.dltk.core.index.sql.h2">
+                    <File name=".metadata\.plugins\org.eclipse.dltk.core.index.sql.h2\model.h2.db" />
+                </Folder>
+                <Folder name="org.eclipse.dltk.ui">
+                    <File name=".metadata\.plugins\org.eclipse.dltk.ui\dialog_settings.xml" />
+                    <File name=".metadata\.plugins\org.eclipse.dltk.ui\OpenTypeHistoryorg_eclipse_php_core_PHPNature.xml" />
+                </Folder>
+                <Folder name="org.eclipse.e4.workbench">
+                    <File name=".metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" />
+                </Folder>
+                <Folder name="org.eclipse.mylyn.bugzilla.core" />
+                <Folder name="org.eclipse.mylyn.context.core">
+                    <Folder name="contexts" />
+                </Folder>
+                <Folder name="org.eclipse.mylyn.tasks.ui" />
+                <Folder name="org.eclipse.team.cvs.core" />
+                <Folder name="org.eclipse.ui.ide">
+                    <File name=".metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" />
+                </Folder>
+                <Folder name="org.eclipse.ui.intro" />
+                <Folder name="org.eclipse.ui.workbench">
+                    <File name=".metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" />
+                    <File name=".metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" />
+                </Folder>
+                <Folder name="org.eclipse.wst.jsdt.core">
+                    <Folder name="indexes" />
+                    <File name=".metadata\.plugins\org.eclipse.wst.jsdt.core\variablesAndContainers.dat" />
+                </Folder>
+                <Folder name="org.eclipse.wst.jsdt.ui">
+                    <File name=".metadata\.plugins\org.eclipse.wst.jsdt.ui\OpenTypeHistory.xml" />
+                    <File name=".metadata\.plugins\org.eclipse.wst.jsdt.ui\QualifiedTypeNameHistory.xml" />
+                </Folder>
+                <Folder name="org.eclipse.wst.sse.core" />
+            </Folder>
+            <File name=".metadata\.lock" />
+            <File name=".metadata\version.ini" />
+        </Folder>
+        <Folder name=".settings">
+            <File name=".settings\.jsdtscope" />
+            <File name=".settings\org.eclipse.php.core.prefs" />
+            <File name=".settings\org.eclipse.wst.common.project.facet.core.xml" />
+            <File name=".settings\org.eclipse.wst.jsdt.ui.superType.container" />
+            <File name=".settings\org.eclipse.wst.jsdt.ui.superType.name" />
+        </Folder>
+        <Folder name="application">
+            <Folder name="controller">
+                <File name="application\controller\home.php" />
+                <File name="application\controller\n404.php" />
+            </Folder>
+            <Folder name="factory">
+                <File name="application\factory\database_interface.php" />
+                <File name="application\factory\mysql.php" />
+            </Folder>
+            <Folder name="model">
+                <File name="application\model\model_blog.php" />
+            </Folder>
+            <Folder name="produk">
+                <File name="application\produk\database_selector.php" />
+            </Folder>
+            <Folder name="view">
+                <File name="application\view\404.php" />
+                <File name="application\view\view_blog.php" />
+                <File name="application\view\view_blog_add.php" />
+            </Folder>
+            <File name="application\base.php" />
+        </Folder>
+        <Folder name="asset" />
+        <Folder name="nbproject">
+            <Folder name="private">
+                <File name="nbproject\private\private.properties" />
+                <File name="nbproject\private\private.xml" />
+            </Folder>
+            <File name="nbproject\project.properties" />
+            <File name="nbproject\project.xml" />
+        </Folder>
+        <File name=".buildpath" />
+        <File name=".htaccess" />
+        <File name=".project" />
+        <File name="config.php" />
+        <File name="index.php" />
+    </Project>
+</NotepadPlus>

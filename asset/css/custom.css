@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+.title_form{
+	width:75%;
+	border:none;
+	background:#F5F5F5;
+}
+.title_form:hover{
+	background:#FFF;
+}
+/* Buat Form Fieldnya */
+.form_field{
+	margin:10px;
+	padding:5px;
+	border-bottom:solid thin #DBD7D2;
+}
+
+.form_field:hover{
+	cursor:move;
+	border-bottom:#8B8DF1 solid thin;
+	background:#FFFEF0;
+}
+.form_bd_ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 10px;
+	cursor: move;
+	display: block;
+}
+#sortable {
+	cursor: move;
+	list-style-type: none;
+}
+#sortable li {
+	margin: 10px;
+}
+.fixed {
+	position: fixed;
+	width: 25%;
+}
+.scrollit {
+	float: left;
+	width: 71%
+}
+.role{
+	padding:5px;
+	background:#D0FDD3;
+	border:solid thin #000;
+	border-radius:5px;
+}
+.role:hover{
+	background:#D6D7FE;
+}
+.roleMenu{
+	padding:10px;
+	border:#000  solid thin;
+}
